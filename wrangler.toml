@@ -1,0 +1,8 @@
+name = "hent-ai-chat"
+compatibility_date = "2025-05-19"
+compatibility_flags = ["nodejs_compat"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "hent-ai-chat-db"
+database_id = ""
